@@ -1,0 +1,33 @@
+h1, h2, h3{
+    text-align: center;
+    color: #540b0e;
+    background-color: #b08968;
+    border: 2px solid #000000;
+
+}
+h1{
+    font-size: 45px;
+}
+img {
+   
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border:5px solid #000000; 
+    padding:0px; 
+}
+body{
+    background-color:#414833 ;
+    text-align: center;
+
+    
+}
+button{
+    color:#020f3b ;
+    background-color: #00b4d8;
+   
+   
+}
+
+
